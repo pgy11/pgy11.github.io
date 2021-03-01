@@ -1,0 +1,32 @@
+.intro{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: #cbdbe6;
+}
+
+.intro > p{
+    margin-block-end: 0;
+}
+
+.intro > hr{
+    width: 100%;
+}
+
+.intro__myself{
+    font-size: 30px;
+    align-self: center;
+}
+
+.intro__stack{
+    font-size: 60px;
+    align-self: center;
+    justify-self: center;
+}
+
+.intro__tech{
+    margin-left: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
