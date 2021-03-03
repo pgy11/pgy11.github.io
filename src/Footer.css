@@ -1,8 +1,8 @@
 .footer{
-    display: flex;
-    height: 8vh;
-    position: sticky;
+    bottom: 0;
+    height: 100px;
     align-items: center;
     justify-content: left;
     background-color: #031f30;
+
 }

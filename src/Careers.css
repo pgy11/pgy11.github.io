@@ -1,17 +1,17 @@
 .careers{
-    width: 100%;
     color: #cbdbe6;
 }
 
 .careers > div{
     padding-top: 20px;
     padding-left: 20px;
+    padding-bottom: 20px;
 }
 
 .careers__subject{
-    font-size: 30px;        
+    font-size: 35px;        
 }
 
 .careers__content{
-    font-size: 15px;
+    font-size: 20px;
 }

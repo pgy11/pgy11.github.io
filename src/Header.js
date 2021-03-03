@@ -13,12 +13,6 @@ function Header() {
             </div>
 
             <div className="header__column">
-                <Link to="/">
-                    <p className='header__column__font'>Introduction</p>
-                </Link>
-            </div>
-
-            <div className="header__column">
                 <Link to="/careers">
                     <p className='header__column__font'>Careers</p>
                 </Link>
